@@ -26,5 +26,8 @@ Adım	Saat	Su seviyesi	   Koşul (su_seviyesi <= 50)	         İşlem
 2.	   2	      48 m	        Doğru	                     Kapaklar kapalı, saat 3 olur.
 3.	   3	      55 m	        Yanlış	                     Döngü kırılır, kritik bilgiler yazdırılır.
 
+<img width="1142" height="1377" alt="Kritik Su Seviyesi Akış Şeması" src="https://github.com/user-attachments/assets/6549309a-039a-4745-9b9e-a8e9aad2b4a7" />
+
+
 
 ## Kaynakça MEB PROGRAMLAMA TEMELLERİ KİTABI, CHATGPT
