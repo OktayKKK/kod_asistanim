@@ -2,3 +2,17 @@
 # Projenin Adı: Kod-Asistan v0.1
 ## Projenin Amacı: Kullanıcılara günlük işlerinde (hesaplama, selamlama vb.) yardımcı olacak bir dijital asistan tasarlamak
 ## Projenin Hedefleri: Bu asistanın ilerleyen zamanlarda hangi özellikleri kazanacağını v1.0 Akıllı Menü, v2.0 Veri Saklama.
+**KRİTİK EŞİK ALGORİTMASI**
+
+1. BAŞLA.
+2. Saat değişkenini 1 olarak belirle.
+3. Su seviyesini sensörden oku.
+4. Su seviyesi 50 metreden küçük veya eşitse:
+   - Kapakları kapalı tut.
+   - Saat değerini 1 artır.
+   - 3. adıma geri dön.
+5. DEĞİLSE:
+   - Döngüyü bitir.
+   - Tahliye saatini ekrana yazdır.
+   - Kritik su seviyesini ekrana yazdır.
+6. DUR.
