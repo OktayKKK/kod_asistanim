@@ -25,3 +25,6 @@ Adım	Saat	Su seviyesi	   Koşul (su_seviyesi <= 50)	         İşlem
 1	   1	      42 m	        Doğru	                     Kapaklar kapalı, saat 2 olur.
 2	   2	      48 m	        Doğru	                     Kapaklar kapalı, saat 3 olur.
 3	   3	      55 m	        Yanlış	                     Döngü kırılır, kritik bilgiler yazdırılır.
+
+
+## Kaynakça MEB PROGRAMLAMA TEMELLERİ KİTABI CHATGPT
